@@ -20,7 +20,7 @@ const Hero = () => {
       </div>
 
       <div className={styles.profileWrapper}>
-        <img src="../assets/profile.png" alt="" />
+        <img src="../../public/assets/profile.png" alt="" />
       </div>
     </section>
   );
