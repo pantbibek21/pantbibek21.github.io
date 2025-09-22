@@ -13,6 +13,7 @@
   gap: 18px;
   position: relative;
   cursor: pointer;
+  z-index: 4;
 
   .logoWrapper {
     width: 80px;
@@ -62,12 +63,26 @@
 
   .angleIcon {
     position: absolute;
-    top: 50%;
+    bottom: 10px;
+    right: 24px;
     transform: translateY(-50%);
     transition: transform 0.2s ease;
   }
 
   .angleIcon.active {
     transform: translateY(-50%) rotate(180deg);
+  }
+}
+
+@media screen and (max-width: 572px) {
+  .card {
+    flex-direction: column-reverse;
+    box-shadow: none;
+
+    .logoWrapper {
+      height: 40px;
+      width: auto;
+      align-self: center;
+    }
   }
 }
