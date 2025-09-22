@@ -5,6 +5,7 @@
   align-items: center;
   position: sticky;
   top: 0;
+  background-color: white;
 
   ul {
     display: flex;
@@ -20,6 +21,42 @@
       &:hover {
         border-bottom: 2px solid orange;
       }
+    }
+  }
+
+  .mobileMenu,
+  .mobileClose {
+    display: none;
+    font-size: 24px;
+    cursor: pointer;
+  }
+}
+
+@media screen and (max-width: 556px) {
+  .header {
+    justify-content: flex-end;
+
+    ul {
+      display: none;
+    }
+
+    .active {
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      top: 80px;
+      left: 0;
+      width: 100%;
+      padding: 24px 18px;
+      background-color: white;
+    }
+
+    .menuActive {
+      display: block;
+    }
+
+    .menuCloseActive {
+      display: block;
     }
   }
 }

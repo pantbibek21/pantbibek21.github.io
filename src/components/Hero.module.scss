@@ -52,7 +52,6 @@
 
   .profileWrapper {
     border-radius: 12px;
-    background-color: rgb(240, 248, 255);
   }
 }
 
@@ -72,6 +71,10 @@
   .heroSection {
     flex-direction: column-reverse;
     margin-top: 40px;
+
+    .heading {
+      font-size: 40px;
+    }
 
     .profileWrapper {
       width: auto;
