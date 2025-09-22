@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "role": "M.Sc. in Geospatial Technologies",
+    "organization": "Institute for Geoinformatics, University of Münster, Germany",
+    "date": "Apr 2025 – Mar 2026",
+    "detail": "Spatial Cognition, Location-Based Services, Core Topics in GIS, Geoinformatics in Transdisciplinary Education.",
+    "logo": "../../public/assets/logo/uniMunster.png"
+  },
+  {
+    "id": 2,
+    "role": "M.Sc. in Geospatial Technologies",
+    "organization": "Universitat Jaume I, Spain (GPA: 8.69/10)",
+    "date": "Sep 2024 – Mar 2025",
+    "detail": "Application Development for Geospatial Data, Databases & Data Management, Artificial Intelligence, Programming.",
+    "logo": "../../public/assets/logo/uniJaumeI.png"
+  },
+  {
+    "id": 3,
+    "role": "B.Sc. in Computer Science & Information Technology",
+    "organization": "Far Western University, Nepal (GPA: 3.73/4.0)",
+    "date": "Jan 2019 – Dec 2022",
+    "detail": "Web Technologies, Programming (C, C++, Java), Databases, Operating Systems, Networking.",
+    "logo": "../../public/assets/logo/fwu.png"
+  }
+]
