@@ -11,10 +11,10 @@ const Header = () => {
       <nav>
         <ul className={`${mobileMenuActive ? styles.active : ""}`}>
           <li>
-            <a href="#">about</a>
+            <a href="#about">about</a>
           </li>
           <li>
-            <a href="#">experience</a>
+            <a href="#experience">experience</a>
           </li>
           <li>
             <a href="#">projects</a>
