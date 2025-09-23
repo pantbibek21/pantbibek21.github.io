@@ -1,0 +1,42 @@
+.footer {
+  text-align: center;
+  margin-bottom: 24px;
+
+  .iconWrapper {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 8px;
+
+    .icon {
+      font-size: 36px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+
+      &:hover {
+        transform: translateY(-4px);
+      }
+
+      a {
+        color: black;
+        transition: all 0.3s ease;
+
+        &:hover {
+          color: rgba(0, 0, 0, 0.849);
+        }
+      }
+    }
+  }
+
+  .email,
+  .address {
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 0px;
+  }
+
+  .copyright {
+    margin-top: 24px;
+    font-size: 14px;
+  }
+}
