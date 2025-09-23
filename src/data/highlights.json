@@ -5,7 +5,7 @@
     "organization": "GeoMundus Conference 2025",
     "date": "Apr 2024 – Present",
     "detail": "Shaping the 17th GeoMundus Conference held on Oct 16 - 18, 2025 (Lisbon, Portugal), including theme, workshops, and program structure.",
-    "logo": "../../public/assets/logo/ifgi.png",
+    "logo": "/assets/logo/ifgi.png",
     "type": "volunteering"
   },
   {
@@ -14,7 +14,7 @@
     "organization": "The Liberators Network, Nepal",
     "date": "Jan 2024 – Sep 2024",
     "detail": "Learned agile and scrum practices from industry experts in Nepal’s tech ecosystem.",
-    "logo": "../../public/assets/logo/theliberatorsnetwork.jpg",
+    "logo": "/assets/logo/theliberatorsnetwork.jpg",
     "type": "volunteering"
   },
   {
@@ -23,7 +23,7 @@
     "organization": "Microsoft",
     "date": "2022 – 2024",
     "detail": "Built Microsoft Tech community in Nepal, organized tech events, workshops, and mentored ambassadors.",
-    "logo": "../../public/assets/logo/mlsa.png",
+    "logo": "/assets/logo/mlsa.png",
     "type": "volunteering"
   },
   {
@@ -32,7 +32,7 @@
     "organization": "Code for Change",
     "date": "Jan 2023 – Dec 2023",
     "detail": "Co-led and initiated the Farwest Team (Province 7), building the provincial tech community and managing technical/non-technical events.",
-    "logo": "../../public/assets/logo/cfc.jpg",
+    "logo": "/assets/logo/cfc.jpg",
     "type": "volunteering"
   },
   {
@@ -41,7 +41,7 @@
     "organization": "Leapfrog Technology Inc.",
     "date": "Mar 2022 – Dec 2022",
     "detail": "Built an online tech community (2,700+ students), organized training/workshops, and mentored students.",
-    "logo": "../../public/assets/logo/leapfrog.png",
+    "logo": "/assets/logo/leapfrog.png",
     "type": "volunteering"
   },
   {
@@ -50,7 +50,7 @@
     "organization": "Project Week 2025, Institute for GeoInformatics",
     "date": "Sep 15, 2025",
     "detail": "Instructed a week-long “Write the Web” workshop, teaching fundamental web technologies to high school students at Anne Frank Gesamtschule, Münster.",
-    "logo": "../../public/assets/logo/ifgi.png",
+    "logo": "/assets/logo/ifgi.png",
     "type": "events"
   },
   {
@@ -59,7 +59,7 @@
     "organization": "School of Engineering, Far Western University",
     "date": "Mar 30, 2025",
     "detail": "Delivered a keynote “Reflections on College, Tech, and Career” at my alma mater guiding and inspiring computer engineering and computer science students.",
-    "logo": "../../public/assets/logo/fwu.png",
+    "logo": "/assets/logo/fwu.png",
     "type": "events"
   },
   {
@@ -68,7 +68,7 @@
     "organization": "BPC Hackfest 2024",
     "date": "Feb 15, 2024",
     "detail": "Mentored a 48 hour national level hackathon guiding 10 teams to refine their ideas and product.",
-    "logo": "../../public/assets/logo/bpcHackfest.png",
+    "logo": "/assets/logo/bpcHackfest.png",
     "type": "events"
   },
   {
@@ -77,7 +77,7 @@
     "organization": "Microsoft Imagine Cup Kathmandu 2024",
     "date": "Dec 30, 2023",
     "detail": "Mentored 10 participating teams to refine project ideas and assess technical feasibility.",
-    "logo": "../../public/assets/logo/microsoft.png",
+    "logo": "/assets/logo/microsoft.png",
     "type": "events"
   },
   {
@@ -86,7 +86,7 @@
     "organization": "Microsoft Build After Party Nepal Edition",
     "date": "Jul 1, 2023",
     "detail": "Delivered a talk on “What and Why of the Tech Community?” to inspire student leaders.",
-    "logo": "../../public/assets/logo/microsoft.png",
+    "logo": "/assets/logo/microsoft.png",
     "type": "events"
   },
   {
@@ -95,7 +95,7 @@
     "organization": "Microsoft Imagine Cup Kathmandu 2023",
     "date": "Dec 30, 2022",
     "detail": "Organized the national edition with hundreds of participants, helping students improve project ideas.",
-    "logo": "../../public/assets/logo/imagineCup.jpg",
+    "logo": "/assets/logo/imagineCup.jpg",
     "type": "events"
   },
   {
@@ -104,7 +104,7 @@
     "organization": "Codefest 2023",
     "date": "Oct 9–10, 2023",
     "detail": "Organized Nepal’s largest 48-hour hackathon with participants from all 7 provinces.",
-    "logo": "../../public/assets/logo/codefest.png",
+    "logo": "/assets/logo/codefest.png",
     "type": "events"
   },
   {
@@ -113,7 +113,7 @@
     "organization": "Code for Change",
     "date": "Apr 3 2023",
     "detail": "Delivered a session on “Software Development 101” guiding young tech students about software development lifecycle and roadmap.",
-    "logo": "../../public/assets/logo/cfc.jpg",
+    "logo": "/assets/logo/cfc.jpg",
     "type": "events"
   },
   {
@@ -122,7 +122,7 @@
     "organization": "Microsoft Ignite 2022 After Party Nepal Edition",
     "date": "Nov 26, 2022",
     "detail": "Organized the national edition with keynotes from Microsoft Regional Directors and MVPs.",
-    "logo": "../../public/assets/logo/microsoft.png",
+    "logo": "/assets/logo/microsoft.png",
     "type": "events"
   },
   {
@@ -131,7 +131,7 @@
     "organization": "Ace Ignite Hackathon, Nepal",
     "date": "Nov 11–13, 2022",
     "detail": "Competed in a 48-hour hackathon with 150 participants; won Best Business Idea Award.",
-    "logo": "../../public/assets/logo/aceIgnite.jpg",
+    "logo": "/assets/logo/aceIgnite.jpg",
     "type": "events"
   },
   {
@@ -140,7 +140,7 @@
     "organization": "Sagarmatha Hacktoberfest",
     "date": "Sep – Oct 2022",
     "detail": "Organized and hosted Nepal’s Hacktoberfest to promote open-source contributions.",
-    "logo": "../../public/assets/logo/sagarmathaHacktoberfest.jpg",
+    "logo": "/assets/logo/sagarmathaHacktoberfest.jpg",
     "type": "events"
   },
   {
@@ -149,7 +149,7 @@
     "organization": "Frontend Bootcamp, Far Western University, Nepal",
     "date": "Aug – Sep 2022",
     "detail": "Designed and taught a month-long bootcamp, training 40 female students in frontend development, free of cost to inspire thier career in tech.",
-    "logo": "../../public/assets/logo/fwu.png",
+    "logo": "/assets/logo/fwu.png",
     "type": "events"
   },
   {
@@ -158,7 +158,7 @@
     "organization": "SNSC IT Club, Nepal",
     "date": "Mar 29, 2022",
     "detail": "Delivered a keynote on “Challenges & Opportunities for Computer Science Students” to 350 in-person participants in tech seminar; my first-ever public speaking experience!",
-    "logo": "../../public/assets/logo/snsc.jpg",
+    "logo": "/assets/logo/snsc.jpg",
     "type": "events"
   },
   {
@@ -167,7 +167,7 @@
     "organization": "European Union",
     "date": "2024",
     "detail": "Awarded the prestigious Erasmus Mundus Scholarship for M.Sc. in Geospatial Technologies at Universitat Jaume I (Spain), University of Münster (Germany), and Universidade Nova de Lisboa (Portugal).",
-    "logo": "../../public/assets/logo/eu.jpg",
+    "logo": "/assets/logo/eu.jpg",
     "type": "awards"
   },
   {
@@ -176,7 +176,7 @@
     "organization": "Climatebase",
     "date": "2024",
     "detail": "First fellow from Nepal; received a full scholarship to join the Climatebase Fellowship program; built Nepal Climate Hub as fellowship project which now turned into a now profit of 18 team members.",
-    "logo": "../../public/assets/logo/climatebase.jpg",
+    "logo": "/assets/logo/climatebase.jpg",
     "type": "awards"
   },
   {
@@ -185,7 +185,7 @@
     "organization": "Far Western University, Nepal",
     "date": "2023",
     "detail": "Ranked top of the Computer Science department; five-time semester topper and entrance exam topper.",
-    "logo": "../../public/assets/logo/fwu.png",
+    "logo": "/assets/logo/fwu.png",
     "type": "awards"
   },
   {
@@ -194,7 +194,7 @@
     "organization": "Leapfrog Technology Inc.",
     "date": "2022",
     "detail": "Selected as one of 20 student partners nationwide (500+ applicants); first from Province 7.",
-    "logo": "../../public/assets/logo/leapfrog.png",
+    "logo": "/assets/logo/leapfrog.png",
     "type": "awards"
   },
   {
@@ -203,7 +203,7 @@
     "organization": "Microsoft",
     "date": "2022",
     "detail": "First ambassador from university and Province 7 (2022); awarded the highest milestone in Nepal (2023) for my impact.",
-    "logo": "../../public/assets/logo/mlsa.png",
+    "logo": "/assets/logo/mlsa.png",
     "type": "awards"
   },
   {
@@ -212,7 +212,7 @@
     "organization": "GitHub",
     "date": "2022",
     "detail": "Recognized as one of two tech community leaders from my province for contributions to building regional tech communities at GitHub Field Day Nepal 2022.",
-    "logo": "../../public/assets/logo/github.jpg",
+    "logo": "/assets/logo/github.jpg",
     "type": "awards"
   },
   {
@@ -221,7 +221,7 @@
     "organization": "Far Western University, Nepal",
     "date": "2019",
     "detail": "Awarded for securing first place in the Computer Science entrance examination.",
-    "logo": "../../public/assets/logo/fwu.png",
+    "logo": "/assets/logo/fwu.png",
     "type": "awards"
   }
 ]
