@@ -1,6 +1,14 @@
 [
   {
     "id": 1,
+    "role": "Software Engineering Fellow (Volunteering)",
+    "organization": "TechLabs Munster",
+    "date": "Oct 2025 – Mar 2026",
+    "detail": "Developing EcoQuest, a sustainability platform that helps young people build eco-friendly habits through challenge-based engagement.",
+    "logo": "/assets/logo/techlabs.png"
+  },
+  {
+    "id": 1,
     "role": "Volunteer Frontend Developer",
     "organization": "Geospatial Technologies Research Group, James I University, Spain",
     "date": "Oct 2024 – Apr 2025",
